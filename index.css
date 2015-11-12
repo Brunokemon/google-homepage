@@ -1,0 +1,36 @@
+body {
+	font-family: arial,sans-serif;
+}
+
+.header-items-texts {
+	display:inline; 
+	opacity: 0.75;
+	float:right; 
+	color: #000; 
+	text-decoration: none;
+	margin: auto 6px auto 6px;
+	font-size: 12px;
+	vertical-align: middle;
+	font-size: 13px;
+}
+
+a.header-items-texts:hover {
+	text-decoration: underline;
+}
+
+#header {
+	margin-top: 22px;
+}
+
+#nine-squares {
+    float:right; 
+    border-radius: 2px;
+	position: -132px -38px;
+	size: 528px 68px;
+    line-height: normal;
+    text-align: left;
+    vertical-align: middle;
+    width: 30px;
+    display: inline-block;
+    height: 30px;
+}
