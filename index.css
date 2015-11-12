@@ -25,8 +25,9 @@ a.header-items-texts:hover {
 #nine-squares {
     float:right; 
     border-radius: 2px;
-	position: -132px -38px;
-	size: 528px 68px;
+    position: -132px -38px;
+    size: 528px 68px;
+    width: 30px;
     line-height: normal;
     text-align: left;
     vertical-align: middle;
