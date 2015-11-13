@@ -2,6 +2,13 @@ body {
 	font-family: arial,sans-serif;
 }
 
+header{
+}
+
+li {	
+	list-style-type:none;
+}
+
 .header-items-texts {;
 	float:right; 
 	color: #000;
@@ -14,13 +21,7 @@ a.header-items-texts:hover {
 	text-decoration: underline;
 }
 
-#header {
-	padding-top: 10px;
-	clear: both;
-	float:right;
-}
-
-.google-icons {
+.header-items-google-icons {
     float:right; 
     border-radius: 2px;
     height: 30px;
@@ -31,9 +32,9 @@ a.header-items-texts:hover {
     opacity: 0.55;
 }
 
-.google-icons:hover {
+.header-items-google-icons:hover {
 	opacity: 1;
-	}
+}
 
 #google-icons-nine-squares{
 	background-position: -135px -38px;
