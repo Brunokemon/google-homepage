@@ -49,3 +49,47 @@ a.header-items-texts:hover {
 	width: 20px;
 	margin-top: 5px;
 }
+
+#google-icons-B {
+	background-color: blue;
+	border-radius: 100%;
+	color: white;
+	height: 32px;
+	width: 32px;
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: -1px;
+	text-align: center;
+	line-height: 31px;
+}
+
+#middle-section{
+	position: absolute;
+	top: 28%;
+	left: 35%;
+	width: 584px;
+}
+
+#google-logo{
+	height: 92;
+	width: 272px;
+	margin-left: 151px;
+}
+
+#search-bar-div{
+  border: 1px solid #d9d9d9;
+  width: 584px;
+  height: 38px;
+  margin-top: 23px;
+  position: relative
+}
+
+#search-bar-input{
+   border: none;
+   width: 100%;
+   display: inline;
+}
+
+#search-bar-keyboard-image{
+	display: inline;
+}
