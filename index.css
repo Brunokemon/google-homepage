@@ -86,10 +86,14 @@ a.header-items-texts:hover {
 
 #search-bar-input{
    border: none;
-   width: 100%;
+   width: 95%;
    display: inline;
 }
 
 #search-bar-keyboard-image{
 	display: inline;
+	float:right;
+	margin-top: 13px;
+	margin-right: 8px;
+	opacity: 0.6;
 }
